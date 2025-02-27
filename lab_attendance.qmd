@@ -1,0 +1,20 @@
+---
+title: "Lab Attendance Week 6"
+author: "Alex Smilor"
+format: 
+  html:
+    self-contained: true
+execute:
+  echo: true
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: bottom
+  loop: true
+---
+
+I just figured out how to correctly calculate a rolling average in plot it on a line graph to show how it changed over time. I've also learned a ton about how ggplot works and how to make plots look good.
+
+::: {style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));grid-gap: 1em;"}
+![North Clear Creek Falls](img/Waterfall.jpg){description="A Waterfall in Colorado" fig-alt="A waterfall surrounded by red cliffs"}
+:::
